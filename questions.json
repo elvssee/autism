@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Does the child make eye contact with others?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "No"
+  },
+  {
+    "question": "Does the child respond to their name when called?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "No"
+  },
+  {
+    "question": "Does the child show interest in playing with other children?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "No"
+  },
+  {
+    "question": "Does the child engage in repetitive behaviors like hand-flapping?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "Yes"
+  },
+  {
+    "question": "Does the child enjoy playing simple social games (e.g., peek-a-boo)?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "No"
+  },
+  {
+    "question": "Does the child point at things to show interest (e.g., pointing at an airplane in the sky)?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "No"
+  },
+  {
+    "question": "Does the child imitate facial expressions, gestures, or movements?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "No"
+  },
+  {
+    "question": "Does the child respond when you try to get their attention?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "No"
+  },
+  {
+    "question": "Does the child show unusual sensitivity to sounds, textures, or lights?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "Yes"
+  },
+  {
+    "question": "Does the child have an unusual attachment to routines and get upset by small changes?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "Yes"
+  },
+  {
+    "question": "Does the child talk or communicate as expected for their age?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "No"
+  },
+  {
+    "question": "Does the child play pretend games (e.g., pretending to cook, drive a car, etc.)?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "No"
+  },
+  {
+    "question": "Does the child repeat words or phrases out of context (e.g., echolalia)?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "Yes"
+  },
+  {
+    "question": "Does the child have difficulty understanding emotions or social cues?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "Yes"
+  },
+  {
+    "question": "Does the child prefer to play alone rather than with others?",
+    "options": ["Yes", "No"],
+    "asd_indicator": "Yes"
+  }
+]
