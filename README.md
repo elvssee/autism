@@ -6,7 +6,6 @@ Parents may be unaware of early behavioral signs of ASD.
 A simple, accessible, and AI-based tool is needed for early screening and awareness.
 
 PRIMARY OBJECTIVES
-Develop a web-based platform for preliminary ASD screening.
-Use an AI-driven questionnaire to assess behavioral traits from real ASD datasets.
-Integrate webcam-based facial analysis (CNN model) to detect emotional cues.
-Provide real-time feedback and ASD awareness resources to parents.
+Develop a secure, user-friendly web-based platform for the preliminary screening of Autism Spectrum Disorder  in children
+Implement an AI-driven adaptive questionnaire system
+Integrate real-time webcam-based facial emotion recognition using a Convolutional Neural Network (CNN) model
